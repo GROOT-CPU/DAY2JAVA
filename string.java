@@ -5,7 +5,7 @@ and replacing the vowels with special char  and then combaing the three convert 
  */
 
 
-//import java.util.*;
+import java.util.*;
 import java .util.Scanner;
 
 public class string {
